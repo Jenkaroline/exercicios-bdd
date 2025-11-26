@@ -23,13 +23,10 @@ https://www.udemy.com/course/automated-software-testing-with-python/
 🧑‍💻 Para quem é este repositório
 Ideal para quem:
 
-Está começando com Python e quer aprender boas práticas.
-
-Quer introduzir testes automatizados em seus projetos.
-
-Estuda QA ou engenharia de software e quer consolidar conhecimentos teóricos com prática.
-
-Deseja construir um portfólio de código limpo, testável e estruturado.
+- Está começando com Python e quer aprender boas práticas.
+- Quer introduzir testes automatizados em seus projetos.
+- Estuda QA ou engenharia de software e quer consolidar conhecimentos teóricos com prática.
+- Deseja construir um portfólio de código limpo, testável e estruturado.
 
 📄 Licença / Uso Livre
 Sinta-se à vontade para usar, adaptar, estudar, modificar e compartilhar este repositório conforme sua necessidade.
