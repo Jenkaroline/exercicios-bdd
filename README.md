@@ -3,7 +3,7 @@
 Este repositório reúne uma série de exercícios práticos baseados no curso *Automated Software Testing with Python*, disponível na plataforma Udemy. O foco é consolidar conhecimentos em Python e aplicar boas práticas de testes automatizados — unitários, de integração e testes de interface/comportamento.
 
 ## 🚀 Link para o curso
-https://www.udemy.com/course/automated-software-testing-with-python/learn/lecture/16000180#overview
+https://www.udemy.com/course/automated-software-testing-with-python/
 
 ## 🔧 O que tem aqui
 
