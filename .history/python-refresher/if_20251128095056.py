@@ -1,0 +1,1 @@
+day_week = input("Enter a day of the week: ")
