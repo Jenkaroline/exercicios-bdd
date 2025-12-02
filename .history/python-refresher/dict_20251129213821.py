@@ -1,0 +1,1 @@
+friends = {"John": 22, "Bella", 23}
